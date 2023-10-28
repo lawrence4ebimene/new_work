@@ -1,0 +1,22 @@
+.org_div {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+}
+.h1 {
+  text-align: center;
+  color: blue;
+}
+
+.div1 {
+  text-align: center;
+  align-items: center;
+  background-color: #a1b4d4;
+  border-color: #151f30;
+  padding: 2rem;
+  border-radius: 19px;
+}
+h2 {
+  text-align: center;
+  justify-content: center;
+}
